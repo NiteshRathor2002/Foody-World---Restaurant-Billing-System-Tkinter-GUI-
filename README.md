@@ -1,0 +1,2 @@
+# Foody-World---Restaurant-Billing-System-Tkinter-GUI-
+Foody World is a modern restaurant billing system built with Python's Tkinter library for GUI and ReportLab for PDF invoice generation. Designed for simplicity and functionality, this desktop application allows restaurants to manage customer orders, view categorized menus, generate bills, and print professional PDF receipts with just a few clicks.
